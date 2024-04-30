@@ -1,11 +1,11 @@
 const user = {
-  name: "Liza",
-  city: "New York",
+  name: "Ian",
+  city: "Nairobi",
   bio: "I made this!",
   color: "firebrick",
   links: {
-    github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
+    github: "https://github.com/",
+    linkedin: "https://www.linkedin.com/in/ian-mwangi-7a4394306/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BJvuDwU4BTCq7cC3Yp%2FuaGQ%3D%3D"
   },
   projects: [
     {
